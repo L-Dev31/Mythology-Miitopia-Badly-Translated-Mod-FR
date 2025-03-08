@@ -38,4 +38,5 @@ Le mod ne modifie que les textes du jeu et n'affecte pas la jouabilité ou la st
 - L-DEV & NICO : Montage du trailer 
 - L-DEV : Logo
 - BlocBlocTheBloc : Pour avoir retrouver les dossiers perdus de ce mod 😭
+  
   -> Son Twitch : https://twitch.tv/blocblocthebloc
