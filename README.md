@@ -10,7 +10,7 @@ Inspiré par les légendaires "traductions catastrophiques" des YouTubeurs Ameri
 
 - **Dialogues réinventés**: TOUS les dialogues ont été traduits avec des outils de mauvaise qualité 1250 fois pour garantir un maximum d'incohérence
 - **Descriptions d'objets absurdes**: Les descriptions d'armes, d'armures et d'objets sont maintenant incompréhensibles
-- **Quêtes illogiques**: Essayez de comprendre ce que vous devez faire quand la quête vous demande de "cuisiner une relation avec Jésus" ou bien de "détruire l'enfant orticulteur"
+- **Quêtes illogiques**: Essayez de comprendre ce que vous devez faire quand la quête vous demande de "cuisiner du sperme de papillon" ou bien de "détruire l'enfant orticulteur"
 
 ## 📥 Installation
 
