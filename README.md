@@ -16,7 +16,7 @@ Inspiré par les légendaires "traductions catastrophiques" des YouTubeurs Ameri
 
 1. Assurez-vous d'avoir une Nintendo 3DS modifiée avec CFW (Custom Firmware)
 2. Téléchargez le dossier `romfs` en appuyant sur [Code] puis [Download .ZIP]
-3. Copiez le fichier sur votre carte SD dans le dossier `/luma/title/00040000001B4F00/`
+3. Copiez le dossier romfs sur votre carte SD dans le dossier `/luma/title/00040000001B4F00/`
 4. Activez les patches de jeux dans le menu luma (select au démarrage de la console)
 5. Lancez Miitopia normalement et profitez de ce chaos !
 
