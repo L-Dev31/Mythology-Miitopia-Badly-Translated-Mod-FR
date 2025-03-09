@@ -13,12 +13,21 @@ Inspiré par les légendaires "traductions catastrophiques" des YouTubeurs Ameri
 - **Quêtes illogiques**: Essayez de comprendre ce que vous devez faire quand la quête vous demande de "cuisiner du sp*rme de papillon" ou bien de "détruire l'enfant orticulteur"
 
 ## 📥 Installation
-
+### Sur Console 3DS
 1. Assurez-vous d'avoir une Nintendo 3DS modifiée avec CFW (Custom Firmware)
 2. Téléchargez le dossier `romfs` en appuyant sur [Code] puis [Download .ZIP]
-3. Copiez le dossier romfs sur votre carte SD dans le dossier `/luma/title/00040000001B4F00/`
-4. Activez les patches de jeux dans le menu luma (select au démarrage de la console)
+3. Copiez le dossier `romfs` sur votre carte SD dans le dossier `/luma/title/00040000001B4F00/`
+4. Activez les patches de jeux dans le menu Luma (SELECT au démarrage de la console)
 5. Lancez Miitopia normalement et profitez de ce chaos !
+
+### Sur Citra Emulator
+1. Assurez-vous d'avoir Citra installé sur votre PC.
+2. Téléchargez le dossier `romfs` en appuyant sur [Code] puis [Download .ZIP].
+3. Ouvrez Citra et faites un clic droit sur Miitopia dans la liste des jeux.
+4. Cliquez sur **"Open Mods Location"**.
+5. Créez un dossier nommé `00040000001B4F00` s'il n'existe pas.
+6. Copiez le dossier `romfs` à l'intérieur.
+7. Démarrez le jeu et profitez du carnage linguistique !
 
 ## 🖼️ Screenshots
 
