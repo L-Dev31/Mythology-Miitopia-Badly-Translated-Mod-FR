@@ -20,7 +20,7 @@ Inspiré par les légendaires "traductions catastrophiques" des YouTubeurs Ameri
 2. Téléchargez le dossier `romfs` en appuyant sur [Code] puis [Download .ZIP]
 3. Copiez le dossier `romfs` sur votre carte SD dans le dossier `/luma/title/00040000001B4F00/`
 4. Activez les patches de jeux dans le menu Luma (SELECT au démarrage de la console)
-5. Lancez Miitopia normalement et profitez de ce chaos !
+5. Lancez Miitopia normalement et profitez du chaos !
 
 ### Sur Citra Emulator
 1. Assurez-vous d'avoir Citra installé sur votre PC.
@@ -29,7 +29,7 @@ Inspiré par les légendaires "traductions catastrophiques" des YouTubeurs Ameri
 4. Cliquez sur **"Open Mods Location"**.
 5. Créez un dossier nommé `00040000001B4F00` s'il n'existe pas.
 6. Copiez le dossier `romfs` à l'intérieur.
-7. Démarrez le jeu et profitez du carnage linguistique !
+7. Démarrez le jeu et profitez du carnage !
 
 ## 🖼️ Screenshots
 
